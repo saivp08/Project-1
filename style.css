@@ -1,0 +1,169 @@
+/* STYLE SECTIONING TAGS */
+body {
+ background-color:#516ee1; 
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: #fcfcfc;
+  text-align:center;
+  font-size:100px;
+  background-color:#3357e6;
+  font-family: "Libre Baskerville",sans-serif;
+}
+
+
+header{
+ text-align:center;
+
+
+}
+
+.flexbox{
+  display:flex;
+
+}
+.flexbox1{
+  margin:15px;
+  font-size:39.4px;
+    background-color:#1f7a8c;
+  : font-family: "Anek Latin", sans-serif;
+  color:#FBF8CC;
+}
+.flexbox2{
+  display:flex;
+}
+.flexbox3{
+margin:15px;
+  font-size:39.4px;
+    background-color:#1f7a8c;
+  : font-family: "Anek Latin", sans-serif;
+  color:#FBF8CC;  
+}
+
+.box3{
+ display:flex; 
+}
+
+.box4{margin:15px;
+  font-size:47px;
+    background-color:#1f7a8c;
+  : font-family: "Anek Latin", sans-serif;
+  color:#FBF8CC;  
+  
+}
+.flexbox4{
+  display:flex
+}
+.flexbox5{
+  margin:15px;
+  font-size:40px;
+    background-color:#1f7a8c;
+  : font-family: "Anek Latin", sans-serif;
+  color:#FBF8CC;  
+  
+}
+
+.flexbox6{
+  display:flex
+}
+.flexbox7{
+  margin:15px;
+  font-size:60px;
+    background-color:#1f7a8c;
+  : font-family: "Anek Latin", sans-serif;
+  color:#FBF8CC;  
+  
+}
+
+.flexbox8{
+  display:flex
+}
+.flexbox9{
+  margin:15px;
+  font-size:60px;
+    background-color:#1f7a8c;
+  : font-family: "Anek Latin", sans-serif;
+  color:#FBF8CC;  
+  
+}
+.flexbox10{
+  display:flex
+}
+.flexbox11{
+  margin:15px;
+  font-size:60px;
+    background-color:#1f7a8c;
+  : font-family: "Anek Latin", sans-serif;
+  color:#FBF8CC;  
+  
+}
+
+
+
+
+#Intro{
+ font-size:20px; 
+  
+ 
+}
+
+h2{
+text-align:center;
+  color: #240046;
+  font-size:45px;
+  background-color:#06d6a0;
+  font-family: "Libre Baskerville",sans-serif;
+}
+h3{
+background-color:#014f86;
+  color:#b9fbc0;
+  font-size:30px;
+  text-align:center;
+}
+/* STYLE IMAGES */
+img{
+  max-width:600px;
+  max-height:600px;
+  border: 5px solid #ff99c8;
+}
+.pictures{
+  max-width:500px;
+  max-height:500px;
+  border: 10px solid #ff99c8;
+
+}
+
+/* STYLE NAV BAR */
+
+ul{
+  padding: 1em;
+  list-style-type: none;
+  background-color:#6cd0a5;
+  overflow:hidden;
+  
+}
+
+li{
+  display: inline;
+
+  
+  
+}
+li a{
+  text-decoration:none;
+  color:black;
+  font-size:2em;
+ padding:1em;
+  
+  
+ 
+}
+li a:hover {
+  background-color: #028090;
+
+
+}
+
+
